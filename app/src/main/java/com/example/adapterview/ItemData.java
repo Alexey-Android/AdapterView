@@ -1,4 +1,5 @@
 package com.example.adapterview;
+
 import android.graphics.drawable.Drawable;
 
 public class ItemData {
